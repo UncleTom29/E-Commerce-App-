@@ -1,16 +1,15 @@
-#### .env vars
+# Kiwi Furniture 
+Check Live Demo here: https://Kiwimarket.netlify.app
 
-- REACT_APP_AUTH_DOMAIN=
-- REACT_APP_CLIENT_ID=
-- REACT_APP_STRIPE_PUBLIC_KEY=
-- REACT_APP_STRIPE_SECRET_KEY=
 
-#### Extra Setup
+# Author
 
-```
-npm install dotenv@8.2.0 stripe@8.130.0 @stripe/react-stripe-js@1.1.2 @stripe/stripe-js@1.11.0 netlify@6.0.12
-```
+👤 &nbsp; **Adeyemi Tomiwa**
 
-```
-npm install netlify-cli -D
-```
+- Twitter: [@hackcat_29](https://twitter.com/hackcat_29)
+- Github: [@UncleTom29](https://github.com/UncleTom29)
+- Email: [adeyemitomiwa7@gmail.com](mailto:adeyemitomiwa7@gmail.com)
+
+## 📝 &nbsp; License
+
+- This project is [MIT](./LICENSE) licensed.
